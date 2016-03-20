@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ResourceManager.js">
+    <Files>
+      <File FileName="Assets\Scripts\Merchant_Primary.js" Line="111" Column="2" />
+      <File FileName="Assets\Scripts\ResourceManager.js" Line="16" Column="20" />
+      <File FileName="Assets\Scripts\LineDrawer.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WaypointMover.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Waypoint.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerMovement.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WaypointsHolder.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TurnControl.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Line.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Merchant_Clothing.js" Line="6" Column="2" />
+      <File FileName="Assets\Scripts\LoadOnClick.cs" Line="10" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
